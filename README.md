@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Link](https://your-solution-url.com)
-- Live Site URL: [Live Site Link](https://your-live-site-url.com)
+- Solution URL: [Solution Link](https://www.frontendmentor.io/solutions/single-price-grid-component-fogwfPwstc)
+- Live Site URL: [Live Site Link](https://cloudofalemar.github.io/SinglePriceGridComponent/)
 
 ## My process
 
@@ -37,7 +37,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Hello everyone! This was a fun little challenge. I used CSS Grid layout the content. I did find it difficult to find the color for the shadow around the component was, so I gave it my best try :D
 
 
 ## Author
